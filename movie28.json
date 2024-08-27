@@ -1,0 +1,635 @@
+[
+    {
+      "id": 1,
+      "title": "Vaazha",
+      "year": 2024,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 9,
+      "director": "Anand Menen",
+      "actors": [
+        "Jagadish",
+        "Kottayam Nazeer",
+        "Azees Nedumangad"
+      ],
+      "plot": "The film follows the lives of five friends, often labeled as losers by society, as they navigate the challenges of adulthood.",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Vaazha.jpg/220px-Vaazha.jpg",
+      "country": "India",
+      "language": "Malayalam",
+      "boxOffice": "₹16.60 crore",
+      "production": "WBTS Productions"
+    },
+    {
+      "id": 2,
+      "title": "Nunakkuzhi",
+      "year": 2024,
+      "genre": [
+        "Comedy",
+        "Thriller"
+      ],
+      "rating": 8.1,
+      "director": "Jeethu Joseph",
+      "actors": [
+        "Basil Joseph",
+        "Grace Antony",
+        "Siddique"
+      ],
+      "plot": "A young businessman`s life falls apart when he becomes embroiled in a web of lies and mistaken identities in a search for a misplaced laptop!",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Nunakuzhi.jpg/220px-Nunakuzhi.jpg",
+      "country": "India",
+      "language": "Malayalam",
+      "boxOffice": "₹12.55 crore",
+      "production": "Yoodlee Films"
+    },
+    {
+      "id": 3,
+      "title": "Stree 2",
+      "year": 2024,
+      "genre": [
+        "Comedy",
+        "Horror"
+      ],
+      "rating": 9,
+      "director": "Amar Kaushik",
+      "actors": [
+            "Rajkumar Rao",
+          "Shraddha Kapoor",
+          "Pankaj Tripathi",
+          "Abhishek Banerjee",
+          "Aparshakti Khurana"
+      ],
+      "plot": "After the events of Stree, the town of Chanderi is being haunted again. This time, women are mysteriously abducted by a terrifying headless entity. Once again, it`s up to Bicky and his friends to save their town and loved ones.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Stree_2.jpg/220px-Stree_2.jpg",
+      "country": "India",
+      "language": "Hindi",
+      "boxOffice": "₹504.99 crore",
+      "production": ["Maddock Films","Jio Studios"]
+    },
+    {
+      "id": 4,
+      "title": "Kalki",
+      "year": 2024,
+      "genre": [
+        "Fiction"
+      ],
+      "rating": 9,
+      "director": "Nag Ashwin",
+      "actors": [
+            "Amitabh Bachchan",
+          "Kamal Haasan",
+          "Prabhas",
+          "Deepika Padukone",
+          "Disha Patani"
+      ],
+      "plot": " Set in a post-apocalyptic world in the year 2898 AD, the film follows a select group who are on a mission to save lab subject SUM-80's unborn child, Kalki.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kalki_2898_AD.jpg/220px-Kalki_2898_AD.jpg",
+      "country": "India",
+      "language": "Telugu",
+      "boxOffice": "₹1,100 crore",
+      "production": "Vyjayanthi Movies"
+    },
+    {
+      "id": 5,
+      "title": "Turbo",
+      "year": 2024,
+      "genre": [
+        "Action",
+        "Comedy"
+      ],
+      "rating": 9,
+      "director": "Vysakh",
+      "actors": [
+            "Mammootty",
+          "Anjana Jayaprakash",
+          "Raj B. Shetty",
+          "Shabareesh Varma",
+          "Sunil",
+          "Kabir Duhan Singh"
+      ],
+      "plot": "Jose, a jeep driver from Idukki gets in trouble and is forced to relocate to Chennai where he gets entangled with Indhu and his best friend, Jerry.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Turbo_Poster.jpg/220px-Turbo_Poster.jpg",
+      "country": "India",
+      "language": "Malayalam",
+      "boxOffice": "₹70.1 crore",
+      "production": "Mammootty Kampany"
+    },
+    {
+      "id": 6,
+      "title": "Aavesham",
+      "year": 2024,
+      "genre": [
+        "Action",
+        "Comedy"
+      ],
+      "rating": 8.5,
+      "director": "Jithu Madhavan",
+      "actors": [
+            "Fahadh Faasil",
+          "Hipzster",
+          "Mithun Jai Shankar",
+          "Roshan Shanavas",
+          "Sajin Gopu"
+      ],
+      "plot": "Presents a simple plotline of three engineering students who seek the help of a local gangster to avenge their bullying.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/d1/Aavesham.jpg",
+      "country": "India",
+      "language": "Malayalam",
+      "boxOffice": "₹154.60 crore",
+      "production": [
+            "Anwar Rasheed Entertainments",
+            "Fahadh Faasil and Friends"
+            ]
+    },
+    {
+      "id": 7,
+      "title": "Chandu Champion",
+      "year": 2024,
+      "genre": [
+        "Drama"
+      ],
+      "rating": 8,
+      "director": "Kabir Khan",
+      "actors": [
+            "Kartik Aaryan",
+          "Vijay Raaz",
+          "Bhuvan Arora"
+      ],
+      "plot": "A man who faced one adversary after another with an undying spirit. His unwavering zeal and never give up attitude led to India's first individual gold medal in any form of the Olympics.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/e/e1/Chandu_Champion_film_poster.jpg",
+      "country": "India",
+      "language": "Hindi",
+      "boxOffice": "₹88.73 crore",
+      "production": "Nadiadwala Grandson Entertainment"
+    },
+    {
+      "id": 8,
+      "title": "Maharaja",
+      "year": 2024,
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": 8,
+      "director": "Nithilan Swaminathan",
+      "actors": [
+        "Vijay Sethupathi",
+        "Anurag Kashyap",
+        "Mamta Mohandas"
+      ],
+      "plot": "A barber seeks vengeance after his home is burglarized, cryptically telling police his lakshmi has been taken, leaving them uncertain if it's a person or object. His quest to recover the elusive lakshmi unfolds.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/82/Maharaja_2024_film_poster.jpg",
+      "country": "India",
+      "language": "Tamil",
+      "boxOffice": "₹107 crore",
+      "production": ["The Route Think Studios","Passion Studios"]
+    },
+    {
+      "id": 9,
+      "title": "The Dark Knight Rises",
+      "year": 2012,
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": 8.4,
+      "director": "Christopher Nolan",
+      "actors": [
+        "Christian Bale",
+        "Tom Hardy"
+      ],
+      "plot": "Eight years after the Joker's reign of anarchy, Batman is forced out of retirement to save Gotham City from the brutal guerrilla terrorist Bane.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/83/Dark_knight_rises_poster.jpg",
+      "country": "USA",
+      "language": "English",
+      "boxOffice": "$1.081 billion",
+      "production": "Warner Bros. Pictures"
+    },
+    {
+      "id": 10,
+      "title": "Interstellar",
+      "year": 2014,
+      "genre": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": 8.6,
+      "director": "Christopher Nolan",
+      "actors": [
+        "Matthew McConaughey",
+        "Anne Hathaway"
+      ],
+      "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+      "country": "USA",
+      "language": "English",
+      "boxOffice": "$677.5 million",
+      "production": "Paramount Pictures"
+    },
+    {
+      "id": 11,
+      "title": "Fight Club",
+      "year": 1999,
+      "genre": [
+        "Drama"
+      ],
+      "rating": 8.8,
+      "director": "David Fincher",
+      "actors": [
+        "Brad Pitt",
+        "Edward Norton",
+        "Helena Bonham Carter"
+      ],
+      "plot": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg",
+      "country": "USA",
+      "language": "English",
+      "boxOffice": "$100.9 million",
+      "production": "20th Century Fox"
+    },
+    {
+      "id": 12,
+      "title": "Gladiator",
+      "year": 2000,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "director": "Ridley Scott",
+      "actors": [
+        "Russell Crowe",
+        "Joaquin Phoenix",
+        "Connie Nielsen"
+      ],
+      "plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/fb/Gladiator_%282000_film_poster%29.png",
+      "country": "USA",
+      "language": "English",
+      "boxOffice": "$460.5 million",
+      "production": "DreamWorks Pictures"
+    },
+    {
+      "id": 13,
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "genre": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8.7,
+      "director": "Peter Jackson",
+      "actors": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen"
+      ],
+      "plot": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/a/a1/Lord_Rings_Two_Towers.jpg",
+      "country": "USA",
+      "language": "English",
+      "boxOffice": "$951.2 million",
+      "production": "New Line Cinema"
+    },
+    {
+      "id": 14,
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.6,
+      "director": "Jonathan Demme",
+      "actors": [
+        "Jodie Foster",
+        "Anthony Hopkins",
+        "Lawrence A. Bonney"
+      ],
+      "plot": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg",
+      "country": "USA",
+      "language": "English",
+      "boxOffice": "$272.7 million",
+      "production": "Orion Pictures"
+    },
+    {
+      "id": 15,
+      "title": "The Departed",
+      "year": 2006,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.5,
+      "director": "Martin Scorsese",
+      "actors": [
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "Jack Nicholson"
+      ],
+      "plot": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/5/50/Departed234.jpg",
+      "country": "USA",
+      "language": "English",
+      "boxOffice": "$289.8 million",
+      "production": "Warner Bros. Pictures"
+    },
+    {
+      "id": 16,
+      "title": "Saving Private Ryan",
+      "year": 1998,
+      "genre": [
+        "Drama",
+        "War"
+      ],
+      "rating": 8.6,
+      "director": "Steven Spielberg",
+      "actors": [
+        "Tom Hanks",
+        "Matt Damon",
+        "Tom Sizemore"
+      ],
+      "plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/a/ac/Saving_Private_Ryan_poster.jpg",
+      "country": "USA",
+      "language": "English",
+      "boxOffice": "$482.3 million",
+      "production": "DreamWorks Pictures"
+    },
+    {
+      "id": 17,
+      "title": "The Prestige",
+      "year": 2006,
+      "genre": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "rating": 8.5,
+      "director": "Christopher Nolan",
+      "actors": [
+        "Christian Bale",
+        "Hugh Jackman",
+        "Scarlett Johansson"
+      ],
+      "plot": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/d2/Prestige_poster.jpg",
+      "country": "USA",
+      "language": "English",
+      "boxOffice": "$109.7 million",
+      "production": "Warner Bros. Pictures"
+    },
+    {
+      "id": 18,
+      "title": "Glory",
+      "year": 1989,
+      "genre": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "rating": 7.8,
+      "director": "Edward Zwick",
+      "actors": [
+        "Matthew Broderick",
+        "Denzel Washington",
+        "Cary Elwes"
+      ],
+      "plot": "Robert Gould Shaw leads the U.S. Civil War's first all-black volunteer company, fighting prejudices from both his own Union Army and the Confederates.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/0/0a/Glory_%281989_film%29_poster.jpg",
+      "country": "USA",
+      "language": "English",
+      "boxOffice": "$26.8 million",
+      "production": "TriStar Pictures"
+    },
+    {
+      "id": 19,
+      "title": "The Avengers",
+      "year": 2012,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8,
+      "director": "Joss Whedon",
+      "actors": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo"
+      ],
+      "plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg",
+      "country": "USA",
+      "language": "English",
+      "boxOffice": "$1.518 billion",
+      "production": "Marvel Studios"
+    },
+    {
+      "id": 20,
+      "title": "The Lion King",
+      "year": 1994,
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "director": "Roger Allers, Rob Minkoff",
+      "actors": [
+        "Matthew Broderick",
+        "Jeremy Irons",
+        "James Earl Jones"
+      ],
+      "plot": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg",
+      "country": "USA",
+      "language": "English",
+      "boxOffice": "$968.5 million",
+      "production": "Walt Disney Pictures"
+    },
+    {
+      "id": 21,
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "genre": [
+        "Drama"
+      ],
+      "rating": 9.3,
+      "director": "Frank Darabont",
+      "actors": [
+        "Tim Robbins",
+        "Morgan Freeman"
+      ],
+      "plot": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/The_Shawshank_Redemption_cd.jpg/220px-The_Shawshank_Redemption_cd.jpg",
+      "country": "USA",
+      "language": "English",
+      "boxOffice": "$28.3 million",
+      "production": "Columbia Pictures"
+    },
+    {
+      "id": 22,
+      "title": "The Godfather",
+      "year": 1972,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.2,
+      "director": "Francis Ford Coppola",
+      "actors": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan"
+      ],
+      "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/a/af/The_Godfather%2C_The_Game.jpg",
+      "country": "USA",
+      "language": "English",
+      "boxOffice": "$245.1 million",
+      "production": "Paramount Pictures"
+    },
+    {
+      "id": 23,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9,
+      "director": "Christopher Nolan",
+      "actors": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Gary Oldman"
+      ],
+      "plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg",
+      "country": "USA",
+      "language": "English",
+      "boxOffice": "$1.005 billion",
+      "production": "Warner Bros. Pictures"
+    },
+    {
+      "id": 24,
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.9,
+      "director": "Quentin Tarantino",
+      "actors": [
+        "John Travolta",
+        "Uma Thurman",
+        "Samuel L. Jackson"
+      ],
+      "plot": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg",
+      "country": "USA",
+      "language": "English",
+      "boxOffice": "$213.9 million",
+      "production": "Miramax Films"
+    },
+    {
+      "id": 25,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.8,
+      "director": "Robert Zemeckis",
+      "actors": [
+        "Tom Hanks",
+        "Robin Wright",
+        "Gary Sinise"
+      ],
+      "plot": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+      "country": "USA",
+      "language": "English",
+      "boxOffice": "$677.9 million",
+      "production": "Paramount Pictures"
+    },
+    {
+      "id": 26,
+      "title": "Inception",
+      "year": 2010,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8.8,
+      "director": "Christopher Nolan",
+      "actors": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Ellen Page"
+      ],
+      "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
+      "country": "USA",
+      "language": "English",
+      "boxOffice": "$829.9 million",
+      "production": "Warner Bros. Pictures"
+    },
+    {
+      "id": 27,
+      "title": "The Matrix",
+      "year": 1999,
+      "genre": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "rating": 8.7,
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "actors": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss"
+      ],
+      "plot": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",
+      "country": "USA",
+      "language": "English",
+      "boxOffice": "$463.5 million",
+      "production": "Warner Bros. Pictures"
+    },
+    {
+      "id": 28,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "genre": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8.9,
+      "director": "Peter Jackson",
+      "actors": [
+        "Elijah Wood",
+        "Viggo Mortensen",
+        "Ian McKellen"
+      ],
+      "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/48/Lord_Rings_Return_King.jpg",
+      "country": "USA",
+      "language": "English",
+      "boxOffice": "$1.142 billion",
+      "production": "New Line Cinema"
+    }
+  ]
