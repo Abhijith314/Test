@@ -1,3 +1,4 @@
-<h2>TailWind</h2>
-<a>https://www.tailbits.com/components/free</a>
-<a>https://tailspark.co/</a>
+<h2>TailWind Free components</h2>
+https://www.tailbits.com/components/free
+<br>
+https://tailspark.co/
